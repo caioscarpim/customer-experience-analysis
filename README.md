@@ -32,8 +32,7 @@ Investigar os principais fatores que levam clientes a avaliações negativas e i
 - DAX (criação de métricas e indicadores)
 
 ## 📊 Dashboard
-
-
+![Dashboard](images/dashboard.png)
 
 ## 🧪 Etapas da Análise
 ### 1. Exploração inicial
