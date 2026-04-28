@@ -73,3 +73,5 @@ Além disso, a presença de variações regionais indica a existência de gargal
 Este projeto demonstra a aplicação de análise de dados para geração de insights de negócio, transformando dados brutos em informações acionáveis para melhoria da experiência do cliente.
 
 ## 📁 Arquivos do Projeto
+- 📊 [Dashboard interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWNjMzI3NDctNjM4OC00YmExLWE5MmQtOTMyYjYyOTE0Y2Y4IiwidCI6IjY3Mzg3ODc4LWQ1NDMtNGU4Mi04Nzg4LTNmMTM3M2UyNjhlZiJ9&pageName=cd6067e0aa90651516ba)
+- 📝 [Artigo no Medium](https://medium.com/@caioscarpim/o-que-realmente-faz-um-cliente-deixar-nota-1-analisei-99-mil-avaliações-da-olist-pra-descobrir-6023f922d8c7)
